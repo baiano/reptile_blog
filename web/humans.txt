@@ -1,0 +1,20 @@
+/* TEAM */
+
+Your title: ReptileCode
+Site: www.reptilecode.com
+Location: Niterói, Brazil.
+
+
+/* THANKS */
+
+Reptile Code
+This is a development tutorial blog
+Name: www.reptilecode.com
+
+
+/* SITE */
+
+Last update: YYYY/MM/DD
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
+Software: Software used for the development
